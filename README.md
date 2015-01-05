@@ -1,4 +1,4 @@
 houzz-website-check
 ===================
-This project takes in a csv file and checks if the websites are listed on houzz and to check if that website has a pro2 url.
-After checking the Houzz website, it goes through each website that isnt on houzz and has a pro2 for a keyterm that a user entered.
+This project takes website data from a csv and checks if the website is listed on Houzz. If the website is not listed on Houzz, each website is checked for a user inputted term related to home remodeling.
+
